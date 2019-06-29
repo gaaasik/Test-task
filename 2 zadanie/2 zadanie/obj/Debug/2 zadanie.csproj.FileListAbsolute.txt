@@ -1,0 +1,7 @@
+C:\Users\Гасанов\source\repos\2 zadanie\2 zadanie\bin\Debug\2 zadanie.exe.config
+C:\Users\Гасанов\source\repos\2 zadanie\2 zadanie\bin\Debug\2 zadanie.exe
+C:\Users\Гасанов\source\repos\2 zadanie\2 zadanie\bin\Debug\2 zadanie.pdb
+C:\Users\Гасанов\source\repos\2 zadanie\2 zadanie\obj\Debug\2 zadanie.csprojAssemblyReference.cache
+C:\Users\Гасанов\source\repos\2 zadanie\2 zadanie\obj\Debug\2 zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\source\repos\2 zadanie\2 zadanie\obj\Debug\2 zadanie.exe
+C:\Users\Гасанов\source\repos\2 zadanie\2 zadanie\obj\Debug\2 zadanie.pdb
